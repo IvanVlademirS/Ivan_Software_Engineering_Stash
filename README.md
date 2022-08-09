@@ -1,4 +1,3 @@
-# Python_Projects
+# ComputerScience_Projects
 
-
-Coding Projects &amp; Assignments
+(in progress)
