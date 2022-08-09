@@ -1,3 +1,1 @@
-# ComputerScience_Projects
-
-(in progress)
+# Tech_and_CompSci_Projects
