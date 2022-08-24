@@ -1,3 +1,3 @@
-# Tech_and_CompSci_Projects
+# SWE_and_CompSci
 
 [in progress]
