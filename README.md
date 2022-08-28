@@ -1,3 +1,3 @@
-# SWE_and_CompSci
+# SWE Notes & Projects
 
 [in progress]
