@@ -1,3 +1,3 @@
-# SWE Notes & Projects
+# SWE Projects, Docs, Notes
 
 [in progress]
