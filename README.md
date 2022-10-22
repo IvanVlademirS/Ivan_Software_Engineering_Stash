@@ -46,6 +46,6 @@ PUSH IN PROGRESS
 | Topic(s) | Link(s) | Description | 
 | -------- | -------- | -------- | 
 | Basics | [Notes](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/tree/master/MAIN/Python/1WK_Py), [Exercises](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/tree/master/MAIN/Python/1WK_Py/Exercises) | Basic Python notes & exercises |
-
+| RedTeam | [Basics for Pentesting](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/blob/master/MAIN/Python/C.%20Basic%20Python%20for%20Pentesting.md) | Python for RedTeaming |
 
 </details>
