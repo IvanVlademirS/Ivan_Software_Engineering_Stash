@@ -1,6 +1,6 @@
 #### ⭐Welcome to my SWE Repo
 📌ReadMe:
-Scroll Down to view topics: GoLang, Python, Javascript.
+Scroll down to view my SWE write-ups/notes > click links to view content.  
 All links point to files that are hosted on my Github.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
