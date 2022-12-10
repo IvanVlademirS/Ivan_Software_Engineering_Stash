@@ -25,19 +25,6 @@ All links point to files that are hosted on my Github.
 
 <details>
 <summary>
-<h4 align="left">   🚀| Go Write-ups</h4>
-👉click to expand🔵
-</summary>
-
-PUSH IN PROGRESS
-
-
-</details>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<details>
-<summary>
 <h4 align="left">  🐍| Python Write-ups</h4>
 👉click to expand🟢
 </summary>
@@ -47,5 +34,17 @@ PUSH IN PROGRESS
 | -------- | -------- | -------- | 
 | Basics | [Notes](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/tree/master/MAIN/Python/1WK_Py), [Exercises](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/tree/master/MAIN/Python/1WK_Py/Exercises) | Basic Python notes & exercises |
 | RedTeam | [Basics for Pentesting](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/blob/master/MAIN/Python/C.%20Basic%20Python%20for%20Pentesting.md) | Python for RedTeaming |
+
+</details>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<details>
+<summary>
+<h4 align="left">   🚀| Go Write-ups</h4>
+👉click to expand🔵
+</summary>
+
+IN PROGRESS
 
 </details>
