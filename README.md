@@ -39,12 +39,3 @@ All links point to files that are hosted on my Github.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<details>
-<summary>
-<h4 align="left">   🚀| Go Write-ups</h4>
-👉click to expand🔵
-</summary>
-
-IN PROGRESS
-
-</details>
